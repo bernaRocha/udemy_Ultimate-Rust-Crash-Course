@@ -1,2 +1,2 @@
-# udemy_Ultimate-Rust-Crash-Course
+# Ultimate Rust Crash Course
 Udemy course 
